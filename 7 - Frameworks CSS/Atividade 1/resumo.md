@@ -4,6 +4,8 @@
 
 Foi criado um projeto de **landing page de biblioteca digital** chamado **BiblioTech**, utilizando apenas HTML e CSS, conforme proposto na Atividade 1 da aula.
 
+Repositório: https://github.com/RickRazz0/senai-front-bibliotech.git
+
 ### Arquivos criados
 
 | Arquivo | Descrição |
